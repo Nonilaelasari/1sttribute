@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<link href="https://font.googleapis.com/css? family-lobster" rel="stylesheet" type="text/css">
+<head>
+<meta charset=utf-8>
+<title>Tribute Challenge</title>
+<link rel="stylesheet" type="text/css" href="portofolio.css'>
+<link rel="stylesheet" type="text/css" href="animate.css'>
+</head>
+<style>
+  body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}                                                       
+<body>
+  <div class="container">
+  <div class="jumbotron">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1 class="text-center">Ki Hadjar Dewantara</h1>
+        <h2 class="text-center"><em></em></h2>
+
+
+<img class="image" src="tributekihajar.jpg" width="750px" height="400px" 7 alt="tributekihajar">
+                                                         
+<p>Ki Hadjar Dewantara adalah aktivis pergerakan kemerdekaan Indonesia, kolumnis, politisi, dan pelopor pendidikan bagi kaum pribumi Indonesia dari zaman penjajahan Belanda. Ia adalah pendiri Perguruan Taman Siswa, suatu lembaga pendidikan yang memberikan kesempatan bagi para pribumi jelata untuk bisa memperoleh hak pendidikan seperti halnya para priyayi maupun orang-orang Belanda.</p>
+<hr class="divider">
+            <h2 class="text-center text-lg text-uppercase my-0"><Synopsis</strong></h2>
+            <hr class="divider">
+            
+<h2>Synopsis</h2>
+<p>Ki Hadjar Dewantara lahir di <strong>Pakualaman</strong>,
+<li><strong>2 Mei 1889</strong> – meninggal di Yogyakarta, 26 April 1959 pada umur 69 tahun. Agama	Islam ,dan menjadi Menteri Pengajaran Indonesia ke-1 Masa jabatan 2 September 1945 – 14 November 1945.</p>
+
+<h2>Quotes</h2>
+<p id="kata"><em>"Ing ngarso sung tulodo,Ing madyo mangun karso,Tut wuri handayani." - Ki Hadjar Dewantara</em></p>
+
+                                                         </body></style>
+ 
+
+
+
+
+
